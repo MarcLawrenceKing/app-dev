@@ -8,15 +8,35 @@ namespace MyConsoleApp1
 {
     internal class Program
     {
-        static void Greet() // greet feature
+        static string Greet() // greet feature
         {
             Console.Write("Enter your name: ");
             string name = Console.ReadLine();
-            Console.WriteLine("Hello " + name + "!");
+            Console.WriteLine("\nHello " + name + "!");
+            return name;
+        }
+
+        static void AgePredict(string name) // age prediction feature
+        {
+            Console.Write("Enter your age: ");
+            string input = Console.ReadLine();
+
+            if (int.TryParse(input, out int age)) // parse the string input
+            {
+                Console.WriteLine("\n" + name + ", in 5 years you will be " + (age + 5) + " years old!");
+            }
+            else
+            {
+                Console.WriteLine("\nEnter your real age!");
+                AgePredict(name);
+            }
+
+            Console.ReadLine();
         }
         static void Main(string[] args)
         {
-            Greet();
+            string name = Greet();
+            AgePredict(name);
         }
     }
 }
