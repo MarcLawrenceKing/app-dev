@@ -5,3 +5,10 @@ C:\Users\marcl\source\repos\MyConsoleApp1\MyConsoleApp1\obj\Debug\MyConsoleApp1.
 C:\Users\marcl\source\repos\MyConsoleApp1\MyConsoleApp1\obj\Debug\MyConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\marcl\source\repos\MyConsoleApp1\MyConsoleApp1\obj\Debug\MyConsoleApp1.exe
 C:\Users\marcl\source\repos\MyConsoleApp1\MyConsoleApp1\obj\Debug\MyConsoleApp1.pdb
+C:\Users\marcl\Downloads\app dev\app-dev\MyConsoleApp1\bin\Debug\MyConsoleApp1.exe.config
+C:\Users\marcl\Downloads\app dev\app-dev\MyConsoleApp1\bin\Debug\MyConsoleApp1.exe
+C:\Users\marcl\Downloads\app dev\app-dev\MyConsoleApp1\bin\Debug\MyConsoleApp1.pdb
+C:\Users\marcl\Downloads\app dev\app-dev\MyConsoleApp1\obj\Debug\MyConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\marcl\Downloads\app dev\app-dev\MyConsoleApp1\obj\Debug\MyConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\marcl\Downloads\app dev\app-dev\MyConsoleApp1\obj\Debug\MyConsoleApp1.exe
+C:\Users\marcl\Downloads\app dev\app-dev\MyConsoleApp1\obj\Debug\MyConsoleApp1.pdb

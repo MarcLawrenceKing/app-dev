@@ -8,16 +8,15 @@ namespace MyConsoleApp1
 {
     internal class Program
     {
-        static void MyMethod()
+        static void Greet() // greet feature
         {
-            Console.WriteLine("I just got executed!");
+            Console.Write("Enter your name: ");
+            string name = Console.ReadLine();
+            Console.WriteLine("Hello " + name + "!");
         }
         static void Main(string[] args)
         {
-            MyMethod();
-            MyMethod();
-            MyMethod();
-            MyMethod();
+            Greet();
         }
     }
 }
